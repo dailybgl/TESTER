@@ -1,0 +1,2 @@
+require("var")
+say(name)
